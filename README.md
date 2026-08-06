@@ -1,4 +1,3 @@
-# PCC-Lab
 # ⚙️ Parallel & Cloud Computing Laboratory — B.Sc. (Hons.) Computer Application V Semester
 
 <div align="center">
